@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "MainTab.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
